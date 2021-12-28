@@ -24,3 +24,15 @@ Then add:
 ```
 options iwlwifi 11n_disable=1 swcrypto=1
 ```
+
+### Vim
+- https://linuxhint.com/vim_syntax_highlighting/
+
+Then see following file to know the categories:
+```
+vim /usr/share/vim/vim82/colors/tools/check_colors.vim
+```
+And add this code to /usr/share/vim/vim82/colors/elflord.vim
+```
+hi ColorColumn ctermbg=lightgreen guibg=lightgreen
+```
