@@ -32,7 +32,17 @@ Then see following file to know the categories:
 ```
 vim /usr/share/vim/vim82/colors/tools/check_colors.vim
 ```
-And add this code to **/usr/share/vim/vim82/colors/elflord.vim**
+And add this code to **/usr/share/vim/vim82/colors/elflord.vim**. It for the color of column
 ```
 hi ColorColumn ctermbg=lightgreen guibg=lightgreen
 ```
+
+Then, add this code to **/usr/share/vim/vim82/colors/elflord.vim**. It for unnecessary white spaces
+```
+...
+hi WhiteSpaces ctermbg=red guibg=red
+...
+hi link ExtraWhitespace WhiteSpaces
+
+```
+
