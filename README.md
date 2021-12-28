@@ -16,3 +16,8 @@ EndSection
 ### Wifi
 - https://bbs.archlinux.org/viewtopic.php?id=244415
 - https://wiki.archlinux.org/title/Network_configuration/Wireless#iwlwifi
+
+```
+sudo vim /etc/modprobe.d/iwlwifi.conf
+options iwlwifi 11n_disable=1 swcrypto=1
+```
