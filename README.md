@@ -19,5 +19,8 @@ EndSection
 
 ```
 sudo vim /etc/modprobe.d/iwlwifi.conf
+```
+Then add:
+```
 options iwlwifi 11n_disable=1 swcrypto=1
 ```
