@@ -46,3 +46,6 @@ hi link ExtraWhitespace WhiteSpaces
 
 ```
 
+### Pacman
+https://stackoverflow.com/questions/27681785/fixing-target-not-found-in-pacman-maybe-mirrorlist-of-pacman-conf
+
