@@ -10,6 +10,7 @@ Section "InputClass"
         Driver "libinput"
         MatchIsTouchpad "on"
         Option "NaturalScrolling" "true"
+        Option "Tapping" "on"
 EndSection
 ```
 
