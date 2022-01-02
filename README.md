@@ -50,3 +50,8 @@ hi link ExtraWhitespace WhiteSpaces
 ### Pacman
 https://stackoverflow.com/questions/27681785/fixing-target-not-found-in-pacman-maybe-mirrorlist-of-pacman-conf
 
+### MySQL
+Second solution:
+- https://www.databasestar.com/access-denied-for-user-root-at-localhost/
+
+
