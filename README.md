@@ -54,4 +54,6 @@ https://stackoverflow.com/questions/27681785/fixing-target-not-found-in-pacman-m
 Second solution:
 - https://www.databasestar.com/access-denied-for-user-root-at-localhost/
 
+### Specify Java version
+- https://rtfm.co.ua/en/arch-linux-set-a-java-version/
 
