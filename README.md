@@ -57,3 +57,25 @@ Second solution:
 ### Specify Java version
 - https://rtfm.co.ua/en/arch-linux-set-a-java-version/
 
+### Solved GRUB problem
+Make a directory in /boot called ***efi***.
+```
+mkdir /boot/efi
+```
+Mount EFI disk to /boot/efi
+```
+mount /dev/nvme0n1p1 /boot/efi
+```
+Then comfigure grub
+```
+grub-install --target=x86_64-efi --efi-directory=/boot/efi/ --bootloader-id=GRUB
+grub-mkconfig -o /boot/grub/grub.cfg
+```
+Now everything is ready with grub. Umount live USB and restart :D
+
+Sources:
+- https://www.youtube.com/watch?v=ZmTB4YlNZds
+- https://bbs.archlinux.org/viewtopic.php?pid=1962038#p1962038
+
+
+
