@@ -77,5 +77,12 @@ Sources:
 - https://www.youtube.com/watch?v=ZmTB4YlNZds
 - https://bbs.archlinux.org/viewtopic.php?pid=1962038#p1962038
 
+### Flutter
+I have *google-chrome-stable*, so I did the following
+```
+sudo cp /usr/bin/google-chrome-stable /usr/bin/google-chrome
+```
+Source:
+- https://stackoverflow.com/questions/66631883/cannot-find-chrome-try-setting-chrome-executable-to-a-chrome-executable-flutte
 
 
