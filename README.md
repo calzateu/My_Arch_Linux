@@ -85,4 +85,15 @@ sudo cp /usr/bin/google-chrome-stable /usr/bin/google-chrome
 Source:
 - https://stackoverflow.com/questions/66631883/cannot-find-chrome-try-setting-chrome-executable-to-a-chrome-executable-flutte
 
+### Dart SDK
+It usually happens with projects that were created in other machines. To fix this on Android Studio 3.1.3:
 
+1. File-> Settings (ctrl+alt+s)
+2. Languages and Frameworks -> Dart
+3. Check "Enable Dart support for the project..."
+4. In "Dart SDK path" click in "..." and navigate to flutter SDK directory. Under that directory you'll find "bin/cache/dart-sdk". This is the dart sdk path you should use.
+5. Click "Apply"
+6. Close the project and open it again (sometimes you need this step, sometimes doesn't)
+
+Source:
+- https://stackoverflow.com/questions/48650831/dart-sdk-is-not-configured
