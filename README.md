@@ -99,4 +99,4 @@ Source:
 - https://stackoverflow.com/questions/48650831/dart-sdk-is-not-configured
 
 ### WoeUSB not formating the USB disk
-Remove *udiskie -t &* from *~.xprofile*
+Remove **udiskie -t &** from **~.xprofile**
