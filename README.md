@@ -97,3 +97,6 @@ It usually happens with projects that were created in other machines. To fix thi
 
 Source:
 - https://stackoverflow.com/questions/48650831/dart-sdk-is-not-configured
+
+### WoeUSB not formating the USB disk
+Remove *udiskie -t &* from *~.xprofile*
