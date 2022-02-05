@@ -105,4 +105,5 @@ Remove **udiskie -t &** from **~.xprofile**
 - https://www.cyberciti.biz/faq/bash-shell-change-the-color-of-my-shell-prompt-under-linux-or-unix/
 - https://unix.stackexchange.com/questions/148/colorizing-your-terminal-and-shell-environment
 
-
+### Alacritty problem
+- https://stackoverflow.com/questions/24676687/top-xterm-unknown-terminal-type/28290724
