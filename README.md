@@ -100,3 +100,9 @@ Source:
 
 ### WoeUSB not formating the USB disk
 Remove **udiskie -t &** from **~.xprofile**
+
+### Change BASH Shell Color of Shell Prompt
+- https://www.cyberciti.biz/faq/bash-shell-change-the-color-of-my-shell-prompt-under-linux-or-unix/
+- https://unix.stackexchange.com/questions/148/colorizing-your-terminal-and-shell-environment
+
+
