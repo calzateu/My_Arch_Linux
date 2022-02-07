@@ -110,4 +110,4 @@ Remove **udiskie -t &** from **~.xprofile**
 
 ### R
 - package ‘RGtk2’ (or other) is not available for this version of R:
-        - https://rattle.togaware.com/rattle-install-troubleshooting.html
+  - https://rattle.togaware.com/rattle-install-troubleshooting.html
