@@ -107,3 +107,7 @@ Remove **udiskie -t &** from **~.xprofile**
 
 ### Alacritty problem
 - https://stackoverflow.com/questions/24676687/top-xterm-unknown-terminal-type/28290724
+
+### R
+- package ‘RGtk2’ (or other) is not available for this version of R:
+        - https://rattle.togaware.com/rattle-install-troubleshooting.html
