@@ -112,3 +112,16 @@ Remove **udiskie -t &** from **~.xprofile**
 - package ‘RGtk2’ (or other) is not available for this version of R:
   - https://rattle.togaware.com/rattle-install-troubleshooting.html
   - Only use ```install.packages("https://cran.r-project.org/src/contrib/Archive/RGtk2/RGtk2_2.20.31.tar.gz", repos=NULL)``` and replace **https://cran.r-project.org/src/contrib/Archive/RGtk2/RGtk2_2.20.31.tar.gz** with the correct package.
+
+### Install other packages that aren't in pacman repositories
+- Search package in **https://archlinux.pkgs.org/**. Then type:
+```
+wget "Binary Package url"
+```
+Example:
+```
+wget https://aur.andontie.net/x86_64/rstudio-desktop-bin-2021.09.2.382-1-x86_64.pkg.tar.zst
+```
+
+
+
