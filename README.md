@@ -134,5 +134,6 @@ Example:
 wget https://aur.andontie.net/x86_64/rstudio-desktop-bin-2021.09.2.382-1-x86_64.pkg.tar.zst
 ```
 
-
+### Download tar.gz of packages from ArchLinux
+- In **package options** select **Download snapshot**.
 
