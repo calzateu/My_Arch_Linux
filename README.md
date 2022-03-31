@@ -113,6 +113,17 @@ Remove **udiskie -t &** from **~.xprofile**
   - https://rattle.togaware.com/rattle-install-troubleshooting.html
   - Only use ```install.packages("https://cran.r-project.org/src/contrib/Archive/RGtk2/RGtk2_2.20.31.tar.gz", repos=NULL)``` and replace **https://cran.r-project.org/src/contrib/Archive/RGtk2/RGtk2_2.20.31.tar.gz** with the correct package.
 
+### Installing RStudio
+In this page I found the method to install RStudio https://bbs.archlinux.org/viewtopic.php?id=225057:
+
+Code:
+```
+wget https://aur.archlinux.org/cgit/aur.git/snapshot/rstudio-desktop.tar.gz
+tar xfvz rstudio-desktop.tar.gz
+cd rstudio-desktop
+makepkg -si
+```
+
 ### Install other packages that aren't in pacman repositories
 - Search package in **https://archlinux.pkgs.org/**. Then type:
 ```
