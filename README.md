@@ -151,7 +151,7 @@ rm -f ~/.local/share/icons/*-x-wine-*.{xpm,png} }}}
 - https://fortinux.gitbooks.io/humble_tips/content/usando_la_linea_de_comandos/tutorial_usar_grep_para_buscar_texto_dentro_de_archivos_en_gnulinux.html
 - https://ed.team/blog/como-buscar-dentro-de-archivos-en-linux
 ```
-grep -rni "notify" .
+grep -rni "palabra" .
 ```
 
 
