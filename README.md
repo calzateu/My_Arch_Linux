@@ -154,4 +154,15 @@ rm -f ~/.local/share/icons/*-x-wine-*.{xpm,png} }}}
 grep -rni "palabra" .
 ```
 
+### Change words in multiple files
+En el siguiente ejemplo, usaremos sed para reemplazar todas las ocurrencias de la palabra «mongo» por la palabra «aurelio» en todos los archivos que tengan la extensión .txt y que se encuentren en la carpeta /home/usuario/micarpeta/.
+```
+find /home/usuario/micarpeta/ -name '*.txt' -exec sed -i "s/mongo/aurelio/g" {} \;
+```
+Me di cuenta que es mejor poner el **.txt** entre comillas, sino **find** saca errores raros.
+
+Ref: https://blog.desdelinux.net/como-encontrar-y-reemplazar-texto-en-varios-archivos-desde-el-terminal/
+
+
+
 
