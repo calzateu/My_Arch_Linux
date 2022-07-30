@@ -164,5 +164,8 @@ Me di cuenta que es mejor poner el **.txt** entre comillas, sino **find** saca e
 Ref: https://blog.desdelinux.net/como-encontrar-y-reemplazar-texto-en-varios-archivos-desde-el-terminal/
 
 
+### ranger colorscheme of editor text
+I changed to use vim for noevim with this:
+https://unix.stackexchange.com/questions/367452/how-to-change-the-default-text-editor-in-ranger
 
 
