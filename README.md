@@ -168,4 +168,8 @@ Ref: https://blog.desdelinux.net/como-encontrar-y-reemplazar-texto-en-varios-arc
 I changed to use vim for noevim with this:
 https://unix.stackexchange.com/questions/367452/how-to-change-the-default-text-editor-in-ranger
 
+### Solving problems with Matlab and Simulink
+https://la.mathworks.com/matlabcentral/answers/364551-why-is-matlab-unable-to-run-the-matlabwindow-application-on-linux
+
+
 
