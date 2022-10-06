@@ -172,4 +172,7 @@ https://unix.stackexchange.com/questions/367452/how-to-change-the-default-text-e
 https://la.mathworks.com/matlabcentral/answers/364551-why-is-matlab-unable-to-run-the-matlabwindow-application-on-linux
 
 
+### Error writing the file failed to close the package enlace cruzado entre dispositivos no permitido **simulink**
+https://bbs.archlinux.org/viewtopic.php?id=277970
+
 
