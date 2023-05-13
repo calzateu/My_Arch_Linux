@@ -181,4 +181,10 @@ https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/r
 ### ssh: connect to host github.com port 22: Connection timed out' error
 https://gist.github.com/Tamal/1cc77f88ef3e900aeae65f0e5e504794
 
+### Problem with some programs after updating Python
+- https://www.reddit.com/r/archlinux/comments/rfj0av/global_problem_with_python_310/
+- https://www.reddit.com/r/archlinux/comments/rf6c84/psa_python_310_is_in_core_rebuild_your_aur/
+
+
+
 
