@@ -14,6 +14,9 @@ Section "InputClass"
 EndSection
 ```
 
+### Pinch to zoom
+- https://forum.manjaro.org/t/2-finger-pinch-zoom-gesture-not-working-smoothly-on-kde/99013
+
 ### Wifi
 - https://bbs.archlinux.org/viewtopic.php?id=244415
 - https://wiki.archlinux.org/title/Network_configuration/Wireless#iwlwifi
