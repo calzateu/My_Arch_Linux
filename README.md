@@ -191,7 +191,10 @@ https://gist.github.com/Tamal/1cc77f88ef3e900aeae65f0e5e504794
 ### Problem with Kernel in Jupyter notebook
 - https://stackoverflow.com/questions/65300509/jupyter-notebook-python-kernel-filenotfounderror-errno-2-no-such-file-or-di
 
-### Problem in Chrome and some other applications when entering in full screen mode
+### Problem in Chrome and some other applications when entering in full screen mode (xmonad)
 - https://www.reddit.com/r/xmonad/comments/wb9ot6/entering_fullscreen_in_chromium_cuts_off_some_of/
+
+### Problem when dialog (popup) window open over another dialog window. The last one spawn behind the first
+- https://www.reddit.com/r/xmonad/comments/hncn6v/raise_popup_windows_created_by_floating_windows/
 
 
