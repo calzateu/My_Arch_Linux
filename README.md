@@ -197,4 +197,18 @@ https://gist.github.com/Tamal/1cc77f88ef3e900aeae65f0e5e504794
 ### Problem when dialog (popup) window open over another dialog window. The last one spawn behind the first
 - https://www.reddit.com/r/xmonad/comments/hncn6v/raise_popup_windows_created_by_floating_windows/
 
+## Zsh
+I used the following command to map **Shift+Tab** with autocompletion in zsh:
+```
+bindkey '^[[Z' autosuggest-accept
+```
+- https://stackoverflow.com/questions/71344843/how-do-i-remap-the-tab-key-in-zsh-autosuggestion-to-replace-the-%E2%86%92
 
+## NeoVim
+### Codeium in Neovim
+There wasn't integration of Codeium with Coc, so I used Plug
+- https://github.com/Exafunction/codeium.vim
+
+### Jupyter Notebooks in Nvim
+I use vim-jukit:
+- https://www.reddit.com/r/neovim/comments/wzoa8i/jupyter_notebooks_in_neovim_any_good_way/
