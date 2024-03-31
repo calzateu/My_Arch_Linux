@@ -212,3 +212,6 @@ There wasn't integration of Codeium with Coc, so I used Plug
 ### Jupyter Notebooks in Nvim
 I use vim-jukit:
 - https://www.reddit.com/r/neovim/comments/wzoa8i/jupyter_notebooks_in_neovim_any_good_way/
+
+### yay is broken after update
+- https://github.com/Jguer/yay/issues/2393
