@@ -215,3 +215,6 @@ I use vim-jukit:
 
 ### yay is broken after update
 - https://github.com/Jguer/yay/issues/2393
+
+### Change HDMI and screens automatically
+- https://github.com/phillipberndt/autorandr
