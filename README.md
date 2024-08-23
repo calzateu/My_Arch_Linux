@@ -223,8 +223,8 @@ I use vim-jukit:
 - https://github.com/fsharp/zarchive-vim-fsharp/issues/96
 
 Then, I installed the last thing with the following command:
-- sudo pacman -S python-lsp-server
+- [sudo pacman -S python-lsp-server](https://github.com/atom-community/ide-python/issues/116)
 ```
-grep -rni "palabra" .
+sudo pacman -S python-lsp-server
 ```
 
