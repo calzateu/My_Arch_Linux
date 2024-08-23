@@ -218,3 +218,6 @@ I use vim-jukit:
 
 ### Change HDMI and screens automatically
 - https://github.com/phillipberndt/autorandr
+
+### Failed to load python3 host
+- https://github.com/fsharp/zarchive-vim-fsharp/issues/96
