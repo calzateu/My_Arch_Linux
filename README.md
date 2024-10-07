@@ -228,3 +228,19 @@ Then, I installed the last thing with the following command:
 sudo pacman -S python-lsp-server
 ```
 
+### Anaconda y miniconda
+Here I found how to install miniconda:
+- https://docs.anaconda.com/miniconda/miniconda-install/
+
+And here a good way to manage Anaconda in Arch:
+- https://www.reddit.com/r/archlinux/comments/w3pk9n/comment/igy182u/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+If I want to remove Anaconda, I can read the following discussion:
+- https://stackoverflow.com/questions/29596350/how-to-uninstall-mini-conda-python
+
+I had the ```Conda command not found```, so I ran the command ```conda init```
+
+And finally, as I don't want to activate the base environment by default, here is how can I achieve this:
+- https://stackoverflow.com/questions/54429210/how-do-i-prevent-conda-from-activating-the-base-environment-by-default
+
+
