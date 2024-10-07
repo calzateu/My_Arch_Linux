@@ -238,7 +238,7 @@ And here a good way to manage Anaconda in Arch:
 If I want to remove Anaconda, I can read the following discussion:
 - https://stackoverflow.com/questions/29596350/how-to-uninstall-mini-conda-python
 
-I had the ```Conda command not found```, so I ran the command ```conda init```
+I had ```Conda command not found```, so I ran the command ```conda init```
 
 And finally, as I don't want to activate the base environment by default, here is how can I achieve this:
 - https://stackoverflow.com/questions/54429210/how-do-i-prevent-conda-from-activating-the-base-environment-by-default
