@@ -88,6 +88,9 @@ sudo cp /usr/bin/google-chrome-stable /usr/bin/google-chrome
 Source:
 - https://stackoverflow.com/questions/66631883/cannot-find-chrome-try-setting-chrome-executable-to-a-chrome-executable-flutte
 
+Last installation:
+- https://medium.com/@rajgadhiya011/how-to-setup-flutter-on-arch-linux-with-android-sdk-a-step-by-step-guide-f40450b55669
+
 ### Dart SDK
 It usually happens with projects that were created in other machines. To fix this on Android Studio 3.1.3:
 
